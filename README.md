@@ -53,127 +53,115 @@ With over a year of experience, I’ve organized and led **20+ workshops, bootca
 <h1>Projects 💻</h1>
 <br><br>
 <!-- <h1 align="center">Projects</h1> -->
-<table bordercolor="#66b2b2">
+<table bordercolor="#66b2b2" cellpadding="10" cellspacing="0" align="center">
 
-<tr>
-  <td width="50%" valign="top">
-      <h3 align="center">Coffee Shop Website</h3>
-        <br />
-        <a target="_blank" href="https://github.com/hirafatimaa/Coffee-Shop-Website">
-            <img src="Projects/Coffee Shop Website.png" width="100%" alt="website"/>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">☕ Coffee Shop Website</h3>
+      <br />
+      <a target="_blank" href="https://github.com/hirafatimaa/Coffee-Shop-Website">
+        <img src="Projects/Coffee Shop Website.JPG" width="100%" alt="Coffee Shop Website"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="Coffee-Shop-Website" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
         </a>
-        <br />
-        <p align="center">
-          <br>
-  <a href="Coffee-Shop-Website" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a> 
-          <br />
-        <p align="center">
-   <br>
- 
-  <a href="https://coffee-shop-fp.surge.sh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=python&logo-color=white"/>
-  </a>       
+        <a href="https://coffee-shop-fp.surge.sh/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
+        </a>
       </p>
-        <p> Developed this website as a semester project using HTML, CSS, JavaScript, and Bootstrap. This project showcases advanced front-end skills and is committed to enhancing UI design and user experience.</p>
+      <p>Developed this Coffee Shop website as a semester project using HTML, CSS, JavaScript, and Bootstrap. This project highlights advanced front-end skills, focusing on enhancing UI design and user experience.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Navron</h3>
-        <br />
+      <h3 align="center">🌐 Navron</h3>
+      <br />
       <a target="_blank" href="https://github.com/samipak458/Online-Text-Translator-With-Azure-Services">
-            <img src="Projects/Navron.png" width="100%"  alt="navron"/>
+        <img src="Projects/Navron.JPG" width="100%" alt="Navron"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://navron-ltd.com/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=next.js&logo-color=white"/>
         </a>
-        <br />
-        <p align="center">
-   <br>
- 
-  <a href="https://navron-ltd.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=python&logo-color=white"/>
-  </a>       
       </p>
-        <p>Designed a user-friendly website using Figma, focusing on visually appealing layouts to enhance user engagement. For front-end development and deployment, utilized Next.js. This approach resulted in a 20% improvement in performance and scalability across various devices.</p>
+      <p>Designed a user-friendly website for Navron using Figma, focusing on creating visually appealing layouts to enhance user engagement. Utilized Next.js for front-end development and deployment, resulting in a 20% improvement in performance and scalability across various devices.</p>
     </td>
   </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Expense Tracker</h3>
-        <br />
-        <a target="_blank" href="https://expense-tracker-app2022.surge.sh/">
-            <img src="Projects/Expense Tracker.png" width="100%" alt="Expense Tracker"/>
-        </a>
-        <br />
-        <p align="center">
-          <br>
-  <a href="https://github.com/hirafatimaa/expense_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://expense-tracker-app2022.surge.sh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
-  </a>
-      </p>
-        <p>Developed an Expense Tracker using React, JavaScript, HTML, and CSS. This project highlights my front-end skills and offers users a robust tool for effective expense management.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Quiz Web Application</h3>
-        <br />
-      <a target="_blank" href="https://quiz-app-06.surge.sh/">
-            <img src="Projects/Quiz Application.png" width="100%"  alt="quiz"/>
-        </a>
-        <br />
-        <p align="center">
-   <br>
-            <a href="https://github.com/hirafatimaa/quiz-app-6" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://quiz-app-06.surge.sh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
-  </a>
-      </p>
-        <p>Developed a quiz application using React, TypeScript, HTML, and CSS. This project demonstrates my front-end development skills and significantly enhances user interaction through an engaging and intuitive interface.</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Shoe Shop Website</h3>
-      <br />
-        <a target="_blank" href="https://shoe-shop-application.surge.sh/-">
-          <img src="Projects/Shoe Shop Website.png" width="100%" alt="shoe"/>
-        </a>
-      <br />
-        <p align="center">
-          <br>
-  <a href="https://github.com/hirafatimaa/shoe-shop-application" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://shoe-shop-application.surge.sh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
-  </a>
-      </p>
-        <p>Built a shoe shop using React, JavaScript, HTML, and CSS, demonstrating front-end development skills and creating an engaging user experience.
-</p>
-    </td>
-<td width="50%" valign="top">
-      <h3 align="center">UN Aid Hub App</h3>
-        <br />
-        <a target="_blank" href="https://fitnessclub.samimunir2002.repl.co/">
-          <img src="Projects/UN Aid App.png" width="100%" alt="Fitness Club"/>
-        </a>
-        <br />
-        <p align="center">
-          <br>
-  <a href="https://github.com/hirafatimaa/UN-AID-HUB" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
 
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💸 Expense Tracker</h3>
+      <br />
+      <a target="_blank" href="https://expense-tracker-app2022.surge.sh/">
+        <img src="Projects/Expense Tracker.JPG" width="100%" alt="Expense Tracker"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/hirafatimaa/expense_app" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://expense-tracker-app2022.surge.sh/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=react&logo-color=white"/>
+        </a>
       </p>
-        <p>hbdfhdhfdhfh</p>
+      <p>Developed an Expense Tracker application using React, JavaScript, HTML, and CSS. This tool is designed to help users manage their expenses effectively, showcasing advanced front-end development techniques.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📝 Quiz Web Application</h3>
+      <br />
+      <a target="_blank" href="https://quiz-app-06.surge.sh/">
+        <img src="Projects/Quiz Application.JPG" width="100%" alt="Quiz Application"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/hirafatimaa/quiz-app-6" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://quiz-app-06.surge.sh/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=react&logo-color=white"/>
+        </a>
+      </p>
+      <p>Developed a quiz application using React, TypeScript, HTML, and CSS. This project showcases the development of an engaging and intuitive user interface for interactive quizzes, highlighting front-end development skills.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">👟 Shoe Shop Website</h3>
+      <br />
+      <a target="_blank" href="https://shoe-shop-application.surge.sh/">
+        <img src="Projects/Shoe Shop Website.JPG" width="100%" alt="Shoe Shop Website"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/hirafatimaa/shoe-shop-application" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://shoe-shop-application.surge.sh/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=react&logo-color=white"/>
+        </a>
+      </p>
+      <p>Built a Shoe Shop website using React, JavaScript, HTML, and CSS. This project demonstrates front-end development skills and creates an engaging user experience for an online shoe store.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚑 UN Aid Hub App</h3>
+      <br />
+      <a target="_blank" href="https://fitnessclub.samimunir2002.repl.co/">
+        <img src="Projects/UN Aid App.png" width="100%" alt="UN Aid Hub App"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/hirafatimaa/UN-AID-HUB" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+      </p>
+      <p>The UN Aid Hub app is designed to deliver aid to refugees in cities affected by conflict. It addresses challenges such as access to aid due to damaged infrastructure and coordinates efforts among organizations while providing real-time updates on conflicts.</p>
     </td>
   </tr>
 
 </table>
+
 
 
 <h2 align="center" style="color: #A9A9A9;">⚙️ GitHub Analytics</h2>
