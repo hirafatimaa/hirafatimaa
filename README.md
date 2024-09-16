@@ -6,7 +6,8 @@
   I am <b>Hira Fatima</b>, currently pursuing a <b>Bachelor's Degree in Computer Science</b> at DHA Suffa University, with a focus on <b>AI, cybersecurity, and full-stack development</b>. I’m passionate about coding 💻, solving real-world problems 🌍, and creating innovative tech solutions.
 </p>
 
-<h3 align="center">🤖 AI & Cybersecurity Enthusiast | Full Stack Developer</h3>
+<h2 align="center">🤖 AI & Cybersecurity Enthusiast | Full Stack Developer</h2>
+<br>
 
 <div align="center">
   <h2>Follow & Connect With Me on My Socials!</h>
@@ -18,15 +19,17 @@
   <a href="https://medium.com/@hirafatimaa718"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </div>
 
-<div align="center">
+ <div align="center">
   <h2>🛠 My Tech Stack</h2> 
+
 I'm a **full-stack developer** who loves creating websites and applications with a positive impact. With experience in **Python**, **Java**, **C++**, **HTML**, **CSS**, **JavaScript**, **React.js**, **Node.js**, and **Next.js**, I’m currently diving deeper into **AI** and **cybersecurity** 🔐. 
 
 Some tools I enjoy working with include **Wireshark**, **Metasploit**, and **Nmap**, especially during **Capture the Flag (CTF)** events 🕵️‍♀️.
 
-With over a year of experience, I’ve organized and led **20+ workshops, bootcamps, and tech talks**, focusing on **community building** 🌐 and bridging the gap between academia and practical skills. I also launched the **GDSC@DSU** website to enhance **online presence** and **resource accessibility** for students 🎓
-</div>
+With over a year of experience, I’ve organized and led **20+ workshops, bootcamps, and tech talks**, focusing on **community building** 🌐 and bridging the gap between academia and practical skills. I also launched the **GDSC@DSU** website to enhance **online presence** and **resource accessibility** for students 🎓.
 
+ </div>
+ 
 <h2 align="center">Languages & Tools</h2>
 
 <p align="center">
