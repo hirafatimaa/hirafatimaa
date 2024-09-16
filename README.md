@@ -48,7 +48,7 @@ With over a year of experience, I’ve organized and led **20+ workshops, bootca
   <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
-# ⚙️ GitHub Analytics
+<h2>⚙️ GitHub Analytics</h2>
 
 <table>
   <tr>
@@ -61,9 +61,6 @@ With over a year of experience, I’ve organized and led **20+ workshops, bootca
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirafatimaa&layout=compact&theme=dark" alt="GitHub Streak"/></p>
 </div>
 
-# 📈 Contribution Graph
-
-[![Hira Fatima's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hirafatimaa&theme=xcode)](https://github.com/hirafatimaa)
 
 
 <!--
