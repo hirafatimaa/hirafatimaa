@@ -1,34 +1,36 @@
-<h1 align="center" >Hey, I'm <a href="https://www.linkedin.com/in/hira-fatimaa/" target="_blank"> Hira Fatima </a> </h1>
-<h2>About Me,</h2> 
+<h1 align="center">Hey, I'm <a href="https://www.linkedin.com/in/hira-fatimaa/" target="_blank">Hira Fatima👋</a></h1>
 
- I am <b>Hira Fatima</b> pursuing my <b>Computer Science Degree</b> I am currently pursuing a Bachelor's degree in Computer Science at DHA Suffa University, with a focus on <b>AI, cybersecurity, and full-stack development. I’m passionate about coding 💻, solving real-world problems 🌍, and creating innovative tech solutions.</b>
- 
- <h3 align="center"> AI & Cybersecurity Enthusiast | Full Stack Developer</h3>
- 
- <div>
- <h1>Follow & connect with me on my socials!</h1>
+<h2 align="center">About Me</h2> 
 
-<a  href="https://www.linkedin.com/in/hira-fatimaa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a  href="https://github.com/hirafatimaa"><img alt=" Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:hirafatimaa718@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-![Discord](https://img.shields.io/badge/@.hirafatima-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-<a href="https://medium.com/@hirafatimaa718"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+<p align="center">
+  I am <b>Hira Fatima</b>, currently pursuing a <b>Bachelor's Degree in Computer Science</b> at DHA Suffa University, with a focus on <b>AI, cybersecurity, and full-stack development</b>. I’m passionate about coding 💻, solving real-world problems 🌍, and creating innovative tech solutions.
+</p>
 
+<h3 align="center">🤖 AI & Cybersecurity Enthusiast | Full Stack Developer</h3>
+
+<div align="center">
+  <h1>🔗 Follow & Connect With Me on My Socials!</h1>
+
+  <a href="https://www.linkedin.com/in/hira-fatimaa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/hirafatimaa"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:hirafatimaa718@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/969693468685402122"><img alt="Discord" src="https://img.shields.io/badge/@.hirafatima-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://medium.com/@hirafatimaa718"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </div>
- 
- <div align="center">
+
+<div align="center">
   <h2>🛠 My Tech Stack</h2> 
 
-I'm a **full-stack developer** who loves creating websites and applications with a positive impact. With experience in **Python**, **Java**, **C++**, **HTML**, **CSS**, **JavaScript**, **React.js**, **Node.js**, and **Next.js**, I’m currently diving deeper into **AI** and **cybersecurity** 🔐. 
+  <p>
+    I'm a **full-stack developer** who loves creating websites and applications with a positive impact. With experience in **Python**, **Java**, **C++**, **HTML**, **CSS**, **JavaScript**, **React.js**, **Node.js**, and **Next.js**, I’m currently diving deeper into **AI** and **cybersecurity** 🔐. 
 
-Some tools I enjoy working with include **Wireshark**, **Metasploit**, and **Nmap**, especially during **Capture the Flag (CTF)** events 🕵️‍♀️.
+    Some tools I enjoy working with include **Wireshark**, **Metasploit**, and **Nmap**, especially during **Capture the Flag (CTF)** events 🕵️‍♀️.
 
-With over a year of experience, I’ve organized and led **20+ workshops, bootcamps, and tech talks**, focusing on **community building** 🌐 and bridging the gap between academia and practical skills. I also launched the **GDSC@DSU** website to enhance **online presence** and **resource accessibility** for students 🎓.
+    With over a year of experience, I’ve organized and led **20+ workshops, bootcamps, and tech talks**, focusing on **community building** 🌐 and bridging the gap between academia and practical skills. I also launched the **GDSC@DSU** website to enhance **online presence** and **resource accessibility** for students 🎓.
+  </p>
+</div>
 
- </div>
-
-<h2> Languages & Tools </h2>
+<h2 align="center">🛠 Languages & Tools</h2>
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-%233572A5.svg?&style=for-the-badge&logo=python&logoColor=white" />
@@ -48,18 +50,28 @@ With over a year of experience, I’ve organized and led **20+ workshops, bootca
   <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
-<h2>⚙️ GitHub Analytics</h2>
 
-<table>
+<h2 align="center">⚙️ GitHub Analytics</h2>
+
+<table align="center">
   <tr>
-    <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=hirafatimaa&show_icons=true&theme=dark" /></td>
-    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirafatimaa&layout=compact&theme=dark" /></td>
+    <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=hirafatimaa&show_icons=true&theme=dark" alt="GitHub Stats" /></td>
+    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirafatimaa&layout=compact&theme=dark" alt="Top Languages" /></td>
   </tr>
 </table>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirafatimaa&layout=compact&theme=dark" alt="GitHub Streak"/></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirafatimaa&layout=compact&theme=dark" alt="GitHub Streak" /></p>
 </div>
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<div align="center">
+  <a href="https://github.com/hirafatimaa">
+    <img src="https://activity-graph.herokuapp.com/graph?username=hirafatimaa&theme=xcode" alt="Contribution Graph" />
+  </a>
+</div>
+
 
 
 
