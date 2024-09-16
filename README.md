@@ -50,7 +50,7 @@ With over a year of experience, I’ve organized and led **20+ workshops, bootca
   <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-<h1>Projects 💻</h1>
+<h1 align="center">Projects 💻</h1>
 <br><br>
 <!-- <h1 align="center">Projects</h1> -->
 <table bordercolor="#66b2b2" cellpadding="10" cellspacing="0" align="center">
