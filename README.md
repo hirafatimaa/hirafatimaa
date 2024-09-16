@@ -6,12 +6,12 @@
   I am <b>Hira Fatima</b>, currently pursuing a <b>Bachelor's Degree in Computer Science</b> at DHA Suffa University, with a focus on <b>AI, cybersecurity, and full-stack development</b>. I’m passionate about coding 💻, solving real-world problems 🌍, and creating innovative tech solutions.
 </p>
 
-<h2 align="center">🤖 AI & Cybersecurity Enthusiast | Full Stack Developer</h2>
-<br>
+<h2 align="center">AI & Cybersecurity Enthusiast | Full Stack Developer</h2>
+
 
 <div align="center">
   <h2 >Follow & Connect With Me on My Socials!</h>
-
+  <br>
   <a href="https://www.linkedin.com/in/hira-fatimaa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/hirafatimaa"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:hirafatimaa718@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
