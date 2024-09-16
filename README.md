@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm <a href="https://www.linkedin.com/in/hira-fatimaa/" target="_blank">Hira Fatima👋</a></h1>
 
-<h2 align="center">About Me</h2> 
+<h2>About Me</h2> 
 
 <p align="center">
   I am <b>Hira Fatima</b>, currently pursuing a <b>Bachelor's Degree in Computer Science</b> at DHA Suffa University, with a focus on <b>AI, cybersecurity, and full-stack development</b>. I’m passionate about coding 💻, solving real-world problems 🌍, and creating innovative tech solutions.
@@ -9,7 +9,7 @@
 <h3 align="center">🤖 AI & Cybersecurity Enthusiast | Full Stack Developer</h3>
 
 <div align="center">
-  <h1>🔗 Follow & Connect With Me on My Socials!</h1>
+  <h2>Follow & Connect With Me on My Socials!</h>
 
   <a href="https://www.linkedin.com/in/hira-fatimaa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/hirafatimaa"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -20,17 +20,14 @@
 
 <div align="center">
   <h2>🛠 My Tech Stack</h2> 
+I'm a **full-stack developer** who loves creating websites and applications with a positive impact. With experience in **Python**, **Java**, **C++**, **HTML**, **CSS**, **JavaScript**, **React.js**, **Node.js**, and **Next.js**, I’m currently diving deeper into **AI** and **cybersecurity** 🔐. 
 
-  <p>
-    I'm a **full-stack developer** who loves creating websites and applications with a positive impact. With experience in **Python**, **Java**, **C++**, **HTML**, **CSS**, **JavaScript**, **React.js**, **Node.js**, and **Next.js**, I’m currently diving deeper into **AI** and **cybersecurity** 🔐. 
+Some tools I enjoy working with include **Wireshark**, **Metasploit**, and **Nmap**, especially during **Capture the Flag (CTF)** events 🕵️‍♀️.
 
-    Some tools I enjoy working with include **Wireshark**, **Metasploit**, and **Nmap**, especially during **Capture the Flag (CTF)** events 🕵️‍♀️.
-
-    With over a year of experience, I’ve organized and led **20+ workshops, bootcamps, and tech talks**, focusing on **community building** 🌐 and bridging the gap between academia and practical skills. I also launched the **GDSC@DSU** website to enhance **online presence** and **resource accessibility** for students 🎓.
-  </p>
+With over a year of experience, I’ve organized and led **20+ workshops, bootcamps, and tech talks**, focusing on **community building** 🌐 and bridging the gap between academia and practical skills. I also launched the **GDSC@DSU** website to enhance **online presence** and **resource accessibility** for students 🎓
 </div>
 
-<h2 align="center">🛠 Languages & Tools</h2>
+<h2 align="center">Languages & Tools</h2>
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-%233572A5.svg?&style=for-the-badge&logo=python&logoColor=white" />
@@ -62,14 +59,6 @@
 
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirafatimaa&layout=compact&theme=dark" alt="GitHub Streak" /></p>
-</div>
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<div align="center">
-  <a href="https://github.com/hirafatimaa">
-    <img src="https://activity-graph.herokuapp.com/graph?username=hirafatimaa&theme=xcode" alt="Contribution Graph" />
-  </a>
 </div>
 
 
