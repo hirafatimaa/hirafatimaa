@@ -1,5 +1,5 @@
 <h1 align="center" >Hey, I'm <a href="https://www.linkedin.com/in/hira-fatimaa/" target="_blank"> Hira Fatima </a> </h1>
-### About Me,
+<h2>About Me,</h2> 
 
  I am <b>Hira Fatima</b> pursuing my <b>Computer Science Degree</b> I am currently pursuing a Bachelor's degree in Computer Science at DHA Suffa University, with a focus on <b>AI, cybersecurity, and full-stack development. I’m passionate about coding 💻, solving real-world problems 🌍, and creating innovative tech solutions.</b>
  
