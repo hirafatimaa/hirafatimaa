@@ -9,9 +9,9 @@
 <h2 align="center">🤖 AI & Cybersecurity Enthusiast | Full Stack Developer</h2>
 <br>
 
-
-  <h2 align="center">Follow & Connect With Me on My Socials!</h>
 <div align="center">
+  <h2 >Follow & Connect With Me on My Socials!</h>
+
   <a href="https://www.linkedin.com/in/hira-fatimaa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/hirafatimaa"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:hirafatimaa718@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
