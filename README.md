@@ -10,7 +10,7 @@
 
 <a  href="https://www.linkedin.com/in/hira-fatimaa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hirafatimaa718@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-![Discord](https://img.shields.io/badge/@.hirafatima-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) [discordapp.com/users/969693468685402122](https://discordapp.com/users/969693468685402122)
+![Discord](https://img.shields.io/badge/@.hirafatima-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) [discordapp.com/users/969693468685402122]
 <a  href="https://github.com/hirafatimaa"><img alt=" Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 <a href="https://medium.com/@hirafatimaa718"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
