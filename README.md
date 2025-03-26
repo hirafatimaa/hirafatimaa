@@ -172,7 +172,7 @@ With over a year of experience, I’ve organized and led **20+ workshops, bootca
     <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirafatimaa&layout=compact&theme=dark" alt="Top Languages" /></td>
 
 
- <td></td> <img src="https://streak-stats.demolab.com?user=hirafatimaa&theme=dark&hide_border=true" alt="GitHub Streak" /></td>
+ <td> <img height="170px" src="https://streak-stats.demolab.com?user=hirafatimaa&theme=dark&hide_border=true" alt="GitHub Streak" /></td>
     </tr>
 </table>
 
