@@ -174,7 +174,7 @@ With over a year of experience, I’ve organized and led **20+ workshops, bootca
 </table>
 <table align="center" style="background-color: #2E2E2E;">
   <tr>
-    <td><img align="center" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=hirafatimaa&layout=compact&theme=dark" alt="GitHub Streak" /></tr>
+    <td><img align="center" height="180px" src="https://streak-stats.demolab.com?user=hirafatimaa&theme=dark&hide_border=true" alt="GitHub Streak" /></tr>
   </tr>
 </table>
 
