@@ -172,9 +172,13 @@ With over a year of experience, I’ve organized and led **20+ workshops, bootca
     <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirafatimaa&layout=compact&theme=dark" alt="Top Languages" /></td>
     </tr>
 </table>
-<div align="center" style="background-color: #1C1C1C; padding: 10px;">
-  <p><img align="center" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=hirafatimaa&layout=compact&theme=dark" alt="GitHub Streak" /></p>
-</div>
+<table align="center" style="background-color: #2E2E2E;">
+  <tr>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirafatimaa&layout=compact&theme=dark" alt="GitHub Streak" /></tr>
+  </tr>
+</table>
+
+
 
 
 
