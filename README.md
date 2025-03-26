@@ -76,7 +76,7 @@ With over a year of experience, I’ve organized and led **20+ workshops, bootca
     <td width="50%" valign="top">
       <h3 align="center">🌐 Navron</h3>
       <br />
-      <a target="_blank" href="https://github.com/samipak458/Online-Text-Translator-With-Azure-Services">
+      <a target="_blank" href="https://navrontest-git-main-hira-fatimas-projects-4efcba48.vercel.app/">
         <img src="Projects/Navron.JPG" width="100%" alt="Navron"/>
       </a>
       <br />
@@ -147,7 +147,7 @@ With over a year of experience, I’ve organized and led **20+ workshops, bootca
     <td width="50%" valign="top">
       <h3 align="center">🚑 UN Aid Hub App</h3>
       <br />
-      <a target="_blank" href="https://fitnessclub.samimunir2002.repl.co/">
+      <a target="_blank" href="https://github.com/hirafatimaa/UN-AID-HUB">
         <img src="Projects/UN Aid App.png" width="100%" alt="UN Aid Hub App"/>
       </a>
       <br />
