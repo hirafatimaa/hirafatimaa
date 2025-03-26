@@ -170,11 +170,11 @@ With over a year of experience, I’ve organized and led **20+ workshops, bootca
   <tr>
     <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=hirafatimaa&show_icons=true&theme=dark" alt="GitHub Stats" /></td>
     <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirafatimaa&layout=compact&theme=dark" alt="Top Languages" /></td>
-
-
- <td> <img height="170px" src="https://streak-stats.demolab.com?user=hirafatimaa&theme=dark&hide_border=true" alt="GitHub Streak" /></td>
     </tr>
 </table>
+<div align="center" style="background-color: #1C1C1C; padding: 10px;">
+  <p><img align="center" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=hirafatimaa&layout=compact&theme=dark" alt="GitHub Streak" /></p>
+</div>
 
 
 
